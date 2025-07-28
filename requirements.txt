@@ -1,0 +1,9 @@
+langchain
+langchain-groq
+langgraph
+python-dotenv
+pydantic
+ipython
+streamlit
+pytest
+pytest-cov 
