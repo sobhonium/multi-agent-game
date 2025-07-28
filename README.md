@@ -79,6 +79,9 @@ The Streamlit app provides a real-time interactive interface where you can:
 3. If majority votes for a player, they are eliminated
 4. Game continues until one team wins
 
+### Demo
+![image](image.png)
+
 ## 📁 Project Structure
 
 ```
